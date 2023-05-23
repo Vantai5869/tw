@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "909831746341",
+    "project_id": "tinwin-uat",
+    "storage_bucket": "tinwin-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909831746341:android:48b681f27a6f23c82560cc",
+        "android_client_info": {
+          "package_name": "com.Tinwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909831746341-3tumgk4sgcc2h287sjntid6e1u4pa5uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Tinwin",
+            "certificate_hash": "73a04931219cbea53b7bd20a6afaa0b14f60d142"
+          }
+        },
+        {
+          "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlb8j8pYO42VxCjPgL9aCvdXjehkrLWTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909831746341-5117kjvqd28mm497rs92mk153ior9bgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TinwinMerchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909831746341:android:1fc9b7a700bcd3ca2560cc",
+        "android_client_info": {
+          "package_name": "com.TinwinMerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909831746341-8t3mdu8snn64tvsd06sbccdmnl8rva5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TinwinMerchant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlb8j8pYO42VxCjPgL9aCvdXjehkrLWTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909831746341-5117kjvqd28mm497rs92mk153ior9bgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TinwinMerchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909831746341:android:092e7ed36dfa38d42560cc",
+        "android_client_info": {
+          "package_name": "com.tinwinsupplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlb8j8pYO42VxCjPgL9aCvdXjehkrLWTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909831746341-a7ddckqluv0sehuerd4508jqfjaa3tpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909831746341-5117kjvqd28mm497rs92mk153ior9bgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TinwinMerchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

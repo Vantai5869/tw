@@ -1,0 +1,26 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="33"
+  height="32"
+  fill="none"
+  viewBox="0 0 33 32"
+>
+  <g
+    stroke="#34C759"
+    strokeMiterlimit="10"
+    strokeWidth="2.667"
+    clipPath="url(#clip0_3530_24323)"
+  >
+    <path d="M15.033 9.334H24.5l1.333 5.333 5.334 2.667v8h-6.895M12.5 13.334v12H1.833V8.001"></path>
+    <path
+      strokeLinecap="square"
+      d="M20.5 30.667a4 4 0 100-8 4 4 0 000 8zM8.5 14.667a6.667 6.667 0 100-13.333 6.667 6.667 0 000 13.333z"
+    ></path>
+    <path strokeLinecap="square" d="M8.5 5.334v2.667h2.667"></path>
+  </g>
+  <defs>
+    <clipPath id="clip0_3530_24323">
+      <path fill="#fff" d="M0 0H32V32H0z" transform="translate(.5)"></path>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TinwinSupplier</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">9Jhor6SJAmgQPNATSjE_s9YrD_rLUsTvIme5l</string>
+</resources>

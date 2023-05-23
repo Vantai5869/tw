@@ -1,0 +1,39 @@
+ <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="33"
+  height="32"
+  fill="none"
+  viewBox="0 0 33 32"
+>
+  <g clipPath="url(#clip0_3530_24330)">
+    <path
+      stroke="#FF3B30"
+      strokeMiterlimit="10"
+      strokeWidth="2.667"
+      d="M20.89 8.33l-7.057-6.996h-12v12l16 16 5.218-5.333"
+    ></path>
+    <path
+      fill="#FF3B30"
+      d="M9.833 12a2.667 2.667 0 100-5.333 2.667 2.667 0 000 5.333z"
+    ></path>
+    <path
+      stroke="#FF3B30"
+      strokeLinecap="square"
+      strokeMiterlimit="10"
+      strokeWidth="2.667"
+      d="M23.167 24.001a8 8 0 100-16 8 8 0 000 16z"
+    ></path>
+    <path
+      stroke="#FF3B30"
+      strokeLinecap="square"
+      strokeMiterlimit="10"
+      strokeWidth="2.667"
+      d="M23.167 13.334v2.667h2.666"
+    ></path>
+  </g>
+  <defs>
+    <clipPath id="clip0_3530_24330">
+      <path fill="#fff" d="M0 0H32V32H0z" transform="translate(.5)"></path>
+    </clipPath>
+  </defs>
+</svg>
